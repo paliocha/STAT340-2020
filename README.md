@@ -15,7 +15,14 @@ This repository contains the exercises of NMBU course on Applied Methods in Stat
   </summary>
   <img src="gif/project-setup/003-Fork-Repo.gif" />
 </details>
-  c) To update and edit the exercises from your own computer, you need install Git in your system (Find some tutorial in Youtube)
+
+<details>
+  <summary>
+  c) To update and edit the exercises from your own computer, you need install Git in your system
+  </summary>
+  Find some [tutorial in Youtube](https://www.youtube.com/watch?v=eo00v2aw92Y)
+</details>
+
 
 <details>
   <summary>
@@ -45,6 +52,5 @@ This repository contains the exercises of NMBU course on Applied Methods in Stat
   <img src="gif/project-setup/007-Build-Commit-Push.gif" />
 </details>
 
-
-
+[A YouTube playlist](https://youtu.be/efymWsFhMu4) contains the video of these steps.
 
